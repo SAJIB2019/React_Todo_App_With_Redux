@@ -18,7 +18,7 @@ const MovieViews = () => {
           <tr className="text-xl uppercase">
             {/* <th className="px-[5px] border-2 border-red-600">ID</th> */}
             <th className="px-[6px] border-2 border-red-600">Title</th>
-            <th className="px-[6px] border-2 border-red-600">Author</th>
+            <th className="px-[6px] border-2 border-red-600">Director</th>
             <th className="px-[5px] border-2 border-red-600">Action</th>
           </tr>
         </thead>

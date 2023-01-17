@@ -2,8 +2,8 @@ const { createSlice } = require("@reduxjs/toolkit");
 const { v4: uuidv4 } = require("uuid");
 const initialMovies = {
   movies: [
-    { id: uuidv4(), title: "Dangle", director: "Sajib" },
-    { id: uuidv4(), title: "Love", director: "Rajib" },
+    { id: uuidv4(), title: "Robert Walker", director: "Alfred Hitchcock" },
+    { id: uuidv4(), title: "Stagecoach", director: "John Ford" },
   ],
 };
 
